@@ -1,0 +1,5 @@
+body{font-family:-apple-system,system-ui,sans-serif;max-width:720px;margin:0 auto;padding:32px 20px;color:#e9e9ec;background:#0A0A0B;line-height:1.6}
+h1{color:#F26A21;margin-bottom:.2em}h2{color:#F5842A;margin-top:2em}
+a{color:#F5842A}.badge{display:inline-block;background:#F26A21;color:#0A0A0B;padding:6px 14px;border-radius:999px;font-weight:700;font-size:14px}
+table{border-collapse:collapse;width:100%;font-size:15px}td,th{border:1px solid #2A2A2E;padding:8px;text-align:left;vertical-align:top}
+footer{margin-top:3em;font-size:14px;color:#9A9AA0}
